@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/java-jdbc-crud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-jdbc-crud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-autowire-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-autowire-annotations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-autowiring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-autowiring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-bean-lifecycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-bean-lifecycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-configuration-all/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-configuration-all/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-configuration-without-xml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-configuration-without-xml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-dependency-injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-dependency-injection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-di-all-examples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-di-all-examples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-di-config-with-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-di-config-with-annotations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-expression-language/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-expression-language/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-inheritance_in_bean_definition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-inheritance_in_bean_definition/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-annotations-and-javaconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-annotations-and-javaconfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-annotations-autowired/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-annotations-autowired/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-annotations-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-annotations-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbccrud-jdbctemplate-usingxml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbccrud-jdbctemplate-usingxml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-standalone-collections-using-util-schema/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-standalone-collections-using-util-schema/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-stereotype-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-stereotype-annotations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-standalone-collections-using-util-schema/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-configuration-all/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-inheritance_in_bean_definition/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-di-config-with-annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-standalone-collections-util-schema/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbccrud-jdbctemplate-usingxml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc-annotations-and-javaconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc-annotations-autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/standalone-collections-using-util-schema/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc-annotations-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/java-jdbc-crud/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/jdbc-annotations-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-di-all-examples/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbccrud-annotations-autowired/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
