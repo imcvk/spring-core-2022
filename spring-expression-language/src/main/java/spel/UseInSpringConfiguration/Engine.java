@@ -1,0 +1,17 @@
+package spel.UseInSpringConfiguration;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+public class Engine {
+    private int capacity;
+    private int horsePower;
+    private int numberOfCylinders;
+
+}

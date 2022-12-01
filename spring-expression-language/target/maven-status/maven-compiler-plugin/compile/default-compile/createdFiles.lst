@@ -1,0 +1,16 @@
+spel/UseInSpringConfiguration/Engine.class
+spel/UsingOperatorsInConfiguration/SpelOperators.class
+spel/operators/mainapp/spelBeans/ConditionalOperator.class
+spel/operators/mainapp/MainAppSpringSPEL.class
+spel/operators/mainapp/spelBeans/LogicalOperators.class
+spel/operators/mainapp/spelBeans/WorkersHolder.class
+spel/spring_expl_demo/mainapp/MainApp.class
+spel/UseInSpringConfiguration/MainApp.class
+spel/operators/mainapp/spelBeans/Regex.class
+spel/operators/mainapp/spelBeans/AccessingListAndMapObjects.class
+spel/operators/mainapp/spelBeans/RelationalAndLogicalOperators.class
+spel/UseInSpringConfiguration/Car.class
+spel/UsingOperatorsInConfiguration/MainApp.class
+spel/spring_expl_demo/beans/Student.class
+spel/operators/mainapp/spelBeans/Arithmetic_Operator_SpringSPEL.class
+spel/ParsingExpressionsProgrammatically/SPEL_Parsing_Demo.class

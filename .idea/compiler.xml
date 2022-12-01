@@ -23,6 +23,7 @@
         <module name="spring-inheritance_in_bean_definition" />
         <module name="spring-autowiring" />
         <module name="spring-jdbc-annotations-demo" />
+        <module name="spring-orm-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
