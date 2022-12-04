@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/java-jdbc-crud/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-jdbc-crud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orm-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orm-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-autowire-annotations/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-autowire-annotations/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-autowiring/src/main/java" charset="UTF-8" />
@@ -31,6 +33,8 @@
     <file url="file://$PROJECT_DIR$/spring-jdbc-annotations-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-jdbccrud-jdbctemplate-usingxml/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-jdbccrud-jdbctemplate-usingxml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-orm-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-orm-application/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-orm-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-orm-demo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-orm-hibernate/src/main/java" charset="UTF-8" />

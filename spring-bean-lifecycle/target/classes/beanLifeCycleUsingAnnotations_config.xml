@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<beans xmlns="http://www.springframework.org/schema/beans"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean class="using_annotations.beans.User3" name="user3" id="user3">
-        <property name="name" value="Suresh"/>
-        <property name="id" value="9658"/>
-    </bean>
-</beans>

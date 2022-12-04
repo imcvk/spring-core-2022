@@ -1,6 +1,0 @@
-jdbc\dao\UserDAOImplUsingJdbcTemplate.class
-jdbc\dao\UserDao.class
-entities\User.class
-fakedatasource\FakeDataSource.class
-mainapp\Using_JdbcTemplate.class
-jdbc\dao\RowMapperImpl.class

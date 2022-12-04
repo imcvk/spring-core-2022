@@ -11,6 +11,7 @@
         <module name="spring-stereotype-annotations" />
         <module name="spring-di-config-with-annotations" />
         <module name="spring-jdbc-annotations-and-javaconfig" />
+        <module name="spring-orm-application" />
         <module name="spring-standalone-collections-using-util-schema" />
         <module name="spring-dependency-injection" />
         <module name="spring-autowire-annotations" />
@@ -21,6 +22,7 @@
         <module name="spring-expression-language" />
         <module name="java-jdbc-crud" />
         <module name="spring-jdbc-annotations-autowired" />
+        <module name="orm-demo" />
         <module name="spring-inheritance_in_bean_definition" />
         <module name="spring-autowiring" />
         <module name="spring-jdbc-annotations-demo" />
