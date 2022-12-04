@@ -26,7 +26,7 @@
         <module>spring-jdbc-annotations-demo</module>
         <module>spring-standalone-collections-using-util-schema</module>
         <module>spring-orm-hibernate</module>
-        <module>spring-orm-demo</module>
+  
 
 
     </modules>
