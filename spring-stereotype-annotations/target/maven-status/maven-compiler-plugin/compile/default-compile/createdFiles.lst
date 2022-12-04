@@ -1,2 +1,2 @@
-mainapp/MainApp.class
-entities/Student.class
+entities\Student.class
+mainapp\MainApp.class

@@ -1,6 +1,6 @@
-using_xml/beans/User.class
-using_programmatic_approach/beans/User2.class
-using_annotations/mainapp/MainApp.class
-using_programmatic_approach/mainapp/MainApp.class
-using_xml/mainapp/MainApp.class
-using_annotations/beans/User3.class
+using_xml\beans\User.class
+using_annotations\beans\User3.class
+using_annotations\mainapp\MainApp.class
+using_programmatic_approach\beans\User2.class
+using_xml\mainapp\MainApp.class
+using_programmatic_approach\mainapp\MainApp.class

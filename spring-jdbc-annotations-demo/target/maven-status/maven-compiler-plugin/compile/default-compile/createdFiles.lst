@@ -1,5 +1,5 @@
-demo/Config.class
-demo/MainApp.class
-demo/StudentDaoImpl.class
-demo/Student.class
-demo/StudentDao.class
+demo\Student.class
+demo\MainApp.class
+demo\StudentDaoImpl.class
+demo\StudentDao.class
+demo\Config.class

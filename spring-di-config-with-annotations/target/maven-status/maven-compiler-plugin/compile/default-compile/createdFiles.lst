@@ -1,4 +1,4 @@
-configuration/BeanConfiguration.class
-bean/Address.class
-bean/Student.class
-mainapp/MainApp.class
+mainapp\MainApp.class
+bean\Address.class
+bean\Student.class
+configuration\BeanConfiguration.class
