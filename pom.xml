@@ -26,6 +26,9 @@
         <module>spring-jdbc-annotations-demo</module>
         <module>spring-standalone-collections-using-util-schema</module>
         <module>spring-orm-hibernate</module>
+        <module>spring-orm-demo</module>
+
+
     </modules>
 
     <properties>
@@ -49,9 +52,10 @@
         </dependency>
 
 
+        <!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
         <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
             <version>8.0.31</version>
         </dependency>
 

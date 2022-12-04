@@ -12,7 +12,6 @@
         <module name="spring-di-config-with-annotations" />
         <module name="spring-jdbc-annotations-and-javaconfig" />
         <module name="spring-standalone-collections-using-util-schema" />
-        <module name="standalone-collections-using-util-schema" />
         <module name="spring-dependency-injection" />
         <module name="spring-autowire-annotations" />
         <module name="spring-jdbccrud-jdbctemplate-usingxml" />
@@ -21,13 +20,10 @@
         <module name="spring-configuration-without-xml" />
         <module name="spring-expression-language" />
         <module name="java-jdbc-crud" />
-        <module name="jdbc-annotations-demo" />
         <module name="spring-jdbc-annotations-autowired" />
         <module name="spring-inheritance_in_bean_definition" />
-        <module name="inheritance_in_bean_definition" />
         <module name="spring-autowiring" />
         <module name="spring-jdbc-annotations-demo" />
-        <module name="spring-dependency-injection-configuration-with-annotations" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
