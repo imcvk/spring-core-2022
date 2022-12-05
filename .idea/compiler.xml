@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-bean-lifecycle" />
+        <module name="spring-orm-hibernate-xml" />
         <module name="spring-stereotype-annotations" />
         <module name="spring-di-config-with-annotations" />
         <module name="spring-jdbc-annotations-and-javaconfig" />
@@ -16,7 +17,7 @@
         <module name="spring-dependency-injection" />
         <module name="spring-autowire-annotations" />
         <module name="spring-jdbccrud-jdbctemplate-usingxml" />
-        <module name="spring-orm-hibernate" />
+        <module name="spring-orm-hibernate-annotations" />
         <module name="spring-configuration-all" />
         <module name="spring-configuration-without-xml" />
         <module name="spring-expression-language" />

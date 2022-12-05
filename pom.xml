@@ -25,9 +25,10 @@
         <module>spring-jdbc-annotations-autowired</module>
         <module>spring-jdbc-annotations-demo</module>
         <module>spring-standalone-collections-using-util-schema</module>
-        <module>spring-orm-hibernate</module>
+        <module>spring-orm-hibernate-xml</module>
         <module>orm-demo</module>
         <module>spring-orm-application</module>
+        <module>spring-orm-hibernate-annotations</module>
     </modules>
 
     <properties>

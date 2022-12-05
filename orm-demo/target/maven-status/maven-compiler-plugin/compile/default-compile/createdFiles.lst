@@ -1,0 +1,4 @@
+dao\UserDAO.class
+entities\User.class
+fakedatasource\FakeDataSource.class
+mainapp\MainApp.class

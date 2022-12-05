@@ -1,7 +1,7 @@
 package fakedatasource;
 
 import com.github.javafaker.Faker;
-import entities.User;
+import entities.Student;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -10,9 +10,9 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class FakeDataSource {
-    private Faker faker;
+    public Faker faker;
 
-    FakeDataSource(Faker faker) {
+    public FakeDataSource(Faker faker) {
         this.faker = faker;
     }
 
@@ -63,9 +63,16 @@ public class FakeDataSource {
         lName = faker.name().lastName();
         return fName + " " + lName;
     }
-    public User getDummyUser() {
-        return new User(getUserId(), getFullName(), getAddress());
-    }
 
+    public Student getRandomStudent() {
+        Student s = new Student();
+        s.setId(getUserId());
+        s.setName(getFullName());
+        s.setEmailId(getEmailId(s.getName()));
+        s.setPhoneNo(getPhNo());
+        s.setUniversity(getCollegeName());
+        s.setAddress(getAddress());
+        return s;
+    }
 
 }

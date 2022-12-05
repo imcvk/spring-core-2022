@@ -45,7 +45,7 @@ http://www.springframework.org/schema/tx
         <property name="faker" ref="faker"/>
     </bean>
 
-    <bean id="transactionManager" class="org.springframework.orm.hibernate5.HibernateTransactionManager">
+    <bean id="transactionManager" class=" org.springframework.orm.hibernate5.HibernateTransactionManager">
         <property name="sessionFactory" ref="localSessionFactoryBean"/>
     </bean>
 </beans>
