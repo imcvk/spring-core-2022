@@ -1,5 +1,0 @@
-dao\StudentDAO.class
-fakedatasource\FakeDataSource.class
-mainapp\MainApp.class
-config\AnnotationConfig.class
-entities\Student.class
